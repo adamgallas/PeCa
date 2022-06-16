@@ -18,7 +18,7 @@ PeCa supports:
 PeCa is:
 - Written in SpinalHDL.
 - Based on the traditional line buffer mechanism.
-- Designed using the valid-ready handshake protocal. Valid-Ready handshaking is everywhere in the accelerator design.
+- Designed using the valid-ready handshake protocal. Valid-Ready handshaking is everywhere in this accelerator design.
 
 ## How to use it
 
